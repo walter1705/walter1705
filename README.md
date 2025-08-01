@@ -1,5 +1,5 @@
 ## Hi there!  
-I'm Walter — a computer science enthusiast who loves exploring how things work and solving problems through code.
+I'm Walter a computer science enthusiast who loves exploring how things work and solving problems through code.
 
 - 🌱 I'm currently learning full-stack development.  
 - 🤝 I'm looking to collaborate on any open-source project using the technologies in my stack below.  
