@@ -3,7 +3,7 @@ I'm Walter, a computer science enthusiast who loves exploring how things work an
 
 - 🌱 I'm currently learning full-stack development.  
 - 🤝 I'm looking to collaborate on any open-source project using the technologies in my stack below.  
-- 🚀 I'm open to learning new technologies to contribute to the open-source community.  
+
 
 ---
 
